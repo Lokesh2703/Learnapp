@@ -1,5 +1,21 @@
 # Learnapp
 
+## How to run this Project
+
+Run these commands in the terminal
+
+`sudo apt install nodejs npm`
+
+`npm install -g @angular/cli`
+
+`git clone https://github.com/Lokesh2703/Learnapp.git`
+
+`cd Learnapp`
+
+`ng serve`
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.8.
 
 ## Development server
@@ -9,14 +25,3 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## How to run this Project
-
-Run these commands in the terminal
-
-`sudo apt install nodejs npm`
-`npm install -g @angular/cli`
-
-`git clone https://github.com/Lokesh2703/Learnapp.git`
-`cd Learnapp`
-`ng serve`
