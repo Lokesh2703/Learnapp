@@ -1,0 +1,58 @@
+{
+    "slug": "da852b02-6c97-42c9-88d9-c95dd3e679ae",
+    "title": "Administration",
+    "link": "",
+    "id": 7,
+    "page": [
+      {
+        "model": "core.corepage",
+        "pk": 10,
+        "fields": {
+          "slug": "principal",
+          "title": "Principal",
+          "sub_title": "List Of Principals",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 11,
+        "fields": {
+          "slug": "janbhagidari",
+          "title": "Janbhagidari",
+          "sub_title": "",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 12,
+        "fields": {
+          "slug": "committee",
+          "title": "Committee",
+          "sub_title": "",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 13,
+        "fields": {
+          "slug": "office",
+          "title": "Office",
+          "sub_title": "",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 37,
+        "fields": {
+          "slug": "non-teaching-staff",
+          "title": "Non Teaching Staff",
+          "sub_title": "",
+          "content": ""
+        }
+      }
+    ]
+  }

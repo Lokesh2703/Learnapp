@@ -1,0 +1,98 @@
+{
+    "slug": "7bd8be38-c6c3-4085-a1fc-f0b4eaff8789",
+    "title": "NAAC",
+    "link": "",
+    "id": 12,
+    "page": [
+      {
+        "model": "core.corepage",
+        "pk": 38,
+        "fields": {
+          "slug": "iqac",
+          "title": "IQAC",
+          "sub_title": "IQAC Reports",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 39,
+        "fields": {
+          "slug": "aqar",
+          "title": "AQAR",
+          "sub_title": "AQAR Reports",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 40,
+        "fields": {
+          "slug": "best-practice",
+          "title": "Best Practice",
+          "sub_title": "",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 41,
+        "fields": {
+          "slug": "ssr",
+          "title": "SSR",
+          "sub_title": "",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 42,
+        "fields": {
+          "slug": "feedback",
+          "title": "Feedback",
+          "sub_title": "",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 43,
+        "fields": {
+          "slug": "naac-certificate",
+          "title": "NAAC Certificate",
+          "sub_title": "NAAC Certificate (2016)",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 44,
+        "fields": {
+          "slug": "student-satisfactory-survey",
+          "title": "Student Satisfactory Survey",
+          "sub_title": "",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 49,
+        "fields": {
+          "slug": "learning-outcomes",
+          "title": "Learning Outcomes",
+          "sub_title": "2016-17",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 50,
+        "fields": {
+          "slug": "student-performance-2016-17",
+          "title": "Student Performance 2016-17",
+          "sub_title": "2016-17",
+          "content": ""
+        }
+      }
+    ]
+}

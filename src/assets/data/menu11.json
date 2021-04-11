@@ -1,0 +1,58 @@
+{
+    "slug": "ed655f31-3706-429c-98ee-bbfcea184257",
+    "title": "Gallery",
+    "link": "",
+    "id": 11,
+    "page": [
+      {
+        "model": "core.corepage",
+        "pk": 36,
+        "fields": {
+          "slug": "2016-17",
+          "title": "2016-17",
+          "sub_title": "",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 45,
+        "fields": {
+          "slug": "2017-18",
+          "title": "2017-18",
+          "sub_title": "",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 46,
+        "fields": {
+          "slug": "2018-19",
+          "title": "2018-19",
+          "sub_title": "",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 47,
+        "fields": {
+          "slug": "2019-20",
+          "title": "2019-20",
+          "sub_title": "",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 48,
+        "fields": {
+          "slug": "2020-21",
+          "title": "2020-21",
+          "sub_title": "",
+          "content": ""
+        }
+      }
+    ]
+  }

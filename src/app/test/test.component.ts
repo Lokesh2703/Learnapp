@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { EmployeeService } from '../employee.service';
 
 @Component({
   selector: 'app-test',
@@ -7,50 +8,32 @@ import { Component, OnInit } from '@angular/core';
                   './css/style.css']
 })
 export class TestComponent implements OnInit {
-  public componentName = 'Lokesh K';
-  public siteUrl = window.location.href;
-  public isDisabled = false;
-  public isCorrect=false;
-  public isSpecial = true;
-  public to="";
-  public colour="blue";
-  public messageClasses={
-    "text-success":this.isCorrect,
-    "text-danger":!this.isCorrect,
-    "text-special":this.isSpecial
-  };
 
-  public messageStyles = {
-    color: "cyan",
-    fontStyle:"bold"
-  };
-
-  constructor() { }
+  public listObj = [];
+  public specObj;
+  public message = 0;
+  public defaultId = 3;
+  public defaultPk = 4;
+  public id = 0;
+  public content = "";
+  public title = "";
+  constructor(private _employeeService:EmployeeService) { }
 
   ngOnInit(): void {
-    // this.loadScript("js/bootstrap.min.js");
-    // this.loadScript("js/jquery.min.js");
-    // this.loadScript("js/main.js");
-    // this.loadScript("js/popper.js");
+    this._employeeService.getMenuList().subscribe(data => this.listObj = data);
+    // this._employeeService.getSpecificItem(this.defaultId.toString()).subscribe(data => this.specObj = data.page);
   }
 
-  public loadScript(url: string) {
-    const body = <HTMLDivElement> document.body;
-    const script = document.createElement('script');
-    script.innerHTML = '';
-    script.src = url;
-    script.async = false;
-    script.defer = true;
-    body.appendChild(script);
+  showmsg(id:number,msg:number){
+    this.message=msg;
+    this.id = id;
+    this._employeeService.getSpecificItem(id.toString()).subscribe(data => {
+                                              this.content = data.page.find(p => p.pk===msg).fields.content;
+                                              this.title = data.page.find(p => p.pk===msg).fields.title;
+                                          });
+    console.log(this.title);
+    console.log(this.content);
   }
 
-  showProposal(){
-    return "I Love You"
-  }
-
-  onClick(){
-    this.componentName = "Koliparthi Lokesh";
-    this.to = "Swathi";
-  }
 
 }

@@ -1,0 +1,48 @@
+{
+    "slug": "1684168f-c746-4d35-a1df-3a3bfcf18094",
+    "title": "Recognition",
+    "link": "",
+    "id": 6,
+    "page": [
+      {
+        "model": "core.corepage",
+        "pk": 6,
+        "fields": {
+          "slug": "department-of-higher-education",
+          "title": "Department of Higher Education",
+          "sub_title": "Department of Higher Education",
+          "content": "Department of Higher Education"
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 7,
+        "fields": {
+          "slug": "university-grants-commission-ugc",
+          "title": "University Grants Commission (UGC)",
+          "sub_title": "University Grants Commission (UGC)",
+          "content": "University Grants Commission (UGC)"
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 8,
+        "fields": {
+          "slug": "rashtriya-ucchhattar-shiksha-abhiyan",
+          "title": "Rashtriya Ucchhattar Shiksha Abhiyan",
+          "sub_title": "Rashtriya Ucchhattar Shiksha Abhiyan",
+          "content": "Rashtriya Ucchhattar Shiksha Abhiyan"
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 9,
+        "fields": {
+          "slug": "atal-bihari-vajpayee-vishwavidyalay",
+          "title": "Atal Bihari Vajpayee Vishwavidyalay",
+          "sub_title": "Atal Bihari Vajpayee Vishwavidyalay",
+          "content": "Atal Bihari Vajpayee Vishwavidyalay"
+        }
+      }
+    ]
+  }

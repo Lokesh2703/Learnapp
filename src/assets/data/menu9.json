@@ -1,0 +1,68 @@
+{
+    "slug": "2add9cae-eab3-40f0-b071-8f02651af51c",
+    "title": "Activities",
+    "link": "",
+    "id": 9,
+    "page": [
+      {
+        "model": "core.corepage",
+        "pk": 21,
+        "fields": {
+          "slug": "nss",
+          "title": "NSS",
+          "sub_title": "National Service Scheme (NSS)",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 22,
+        "fields": {
+          "slug": "sports",
+          "title": "Sports",
+          "sub_title": "Sports and Games",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 23,
+        "fields": {
+          "slug": "youth-red-cross-society",
+          "title": "Youth Red Cross Society",
+          "sub_title": "",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 24,
+        "fields": {
+          "slug": "field-work",
+          "title": "Field Work",
+          "sub_title": "",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 25,
+        "fields": {
+          "slug": "cultural-activities",
+          "title": "Cultural Activities",
+          "sub_title": "Cultural/Literary Activities",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 52,
+        "fields": {
+          "slug": "facility-for-e-content",
+          "title": "Facility For e-content",
+          "sub_title": "2016-17",
+          "content": "Facility For e-content not available."
+        }
+      }
+    ]
+  }

@@ -1,0 +1,38 @@
+{
+    "slug": "2729bcff-8e6d-4c41-9ee4-35039d769c55",
+    "title": "About Us",
+    "link": "about us",
+    "id": 3,
+    "page": [
+      {
+        "model": "core.corepage",
+        "pk": 2,
+        "fields": {
+          "slug": "history",
+          "title": "History",
+          "sub_title": "",
+          "content": "This College was established by the Department of Higher Education, the Government of Madhya Pradesh in 1989.\r\n\r\nLocation - Rural, Tribal, Backward and hilly area.\r\n\r\nTribes - Kanwar, Khairwar, Gond, Oranw, Manwar.\r\n\r\nAffiliation - Affilated to Bilaspur University, Bilaspur, a newly established University of Chhattisgarh State.\r\n\r\nUGC Recognition - The university grants commission(UGC) accorded it recognition under 2 F & 12 B in May 1998."
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 4,
+        "fields": {
+          "slug": "vision-and-mission",
+          "title": "Vision And Mission",
+          "sub_title": "Vision And Mission",
+          "content": "Vision \r\n\r\nThe Vision of the College is to improve the Quality of higher education in arts and commerce, serve the social needs] uplift the academic standards of the regional youths and foster an enduring sense of discipline and single minded dedication to work.\r\n\r\nMission\r\n\r\nThe mission is to provide Quality and value based education in the field of arts and commerce to the interested, first generation students and backward classes of the society. The mission is to promote the college into an institution of the quality education, to serve the regional youth by providing them easy access to higher education and job opportunities. The college has striven towards integrated personality, growth of rural students in particular and students at large in which special attention is given to their intellectual , moral and cultural development. It has to inculcate discipline, higher level of culture and time values in life among the youth."
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 5,
+        "fields": {
+          "slug": "principals-desk",
+          "title": "Principal’s Desk",
+          "sub_title": "Message From The Principal’s Desk",
+          "content": "प्राचार्य की कलम से \r\n\r\n          शासकीय महाविद्यालय भैसमा, वनाँचल क्षेत्र, कोरबा जिला अनुसूचित जनजाति बहुल क्षेत्र में स्थित है। यह महाविद्यालय उरगा (कोरबा) से धरमजयगढ़ राष्ट्रीय राजमार्ग पर उरगा से 4 कि.मी. की दूरी पर स्थित है। महाविद्यालय भवन 18 एकड़ में विस्तारित है।यह हमारे लिए अत्यंत गौरवान्वित होने वाला विषय है कि आदिवासी, ग्रामीण क्षेत्र में स्थित होने के बावजूद छात्राओं की संख्या प्रतिवर्ष प्रत्येक संकाय में बढ़ती ही जा रही है। वर्तमान में 65 प्रतिशत से अधिक छात्राओं की संख्या है, जो कि शिक्षा के क्षेत्र में महिला शिक्षा के बढ़ते रूझाान का परिचायक है।\r\n\tआज पूरा विश्व शिक्षा के क्षेत्र में गुणवत्ता सुधार के प्रयास में लगा हुआ है। इस दिशा में महाविद्यालय परिवार शिक्षा के साथ रोजगारोन्मुखी शिक्षा को बढ़ावा देने में प्रयासरत है।\r\n\tभविष्य में भी यह महाविद्यालय शिक्षा के साथ-साथ सभी क्षेत्रों में विकास को ओर अग्रसर होगा, ऐसी मेरी शुभकामनाएँ है। \r\n\t\t\r\n                                                                                     \r\n          डाॅ. जे.एल. चौहान\r\n               प्र. प्राचार्य"
+        }
+      }
+    ]
+  }

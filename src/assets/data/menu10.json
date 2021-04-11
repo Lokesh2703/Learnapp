@@ -1,0 +1,108 @@
+{
+    "slug": "e09e4ddc-0934-4663-ba7d-650267a689dd",
+    "title": "Students Corner",
+    "link": "",
+    "id": 10,
+    "page": [
+      {
+        "model": "core.corepage",
+        "pk": 26,
+        "fields": {
+          "slug": "admission",
+          "title": "Admission",
+          "sub_title": "Admission Process",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 27,
+        "fields": {
+          "slug": "library",
+          "title": "Library",
+          "sub_title": "About Library",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 28,
+        "fields": {
+          "slug": "career-counselling-and-placement-cell",
+          "title": "Career Counselling and Placement Cell",
+          "sub_title": "",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 29,
+        "fields": {
+          "slug": "student-union",
+          "title": "Student Union",
+          "sub_title": "",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 30,
+        "fields": {
+          "slug": "hostel",
+          "title": "Hostel",
+          "sub_title": "",
+          "content": "Hostel Facilities not available."
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 31,
+        "fields": {
+          "slug": "canteen",
+          "title": "Canteen",
+          "sub_title": "",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 32,
+        "fields": {
+          "slug": "scholarship",
+          "title": "Scholarship",
+          "sub_title": "",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 33,
+        "fields": {
+          "slug": "grievance-cell",
+          "title": "Grievance Cell",
+          "sub_title": "",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 34,
+        "fields": {
+          "slug": "anti-ragging",
+          "title": "Anti-Ragging",
+          "sub_title": "Disciplines and Anti-Ragging Committee",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 51,
+        "fields": {
+          "slug": "download",
+          "title": "download",
+          "sub_title": "Download",
+          "content": ""
+        }
+      }
+    ]
+  }

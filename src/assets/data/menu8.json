@@ -1,0 +1,38 @@
+{
+    "slug": "8762d431-d085-4806-aeed-a64f96d92fc7",
+    "title": "Examination",
+    "link": "",
+    "id": 8,
+    "page": [
+      {
+        "model": "core.corepage",
+        "pk": 18,
+        "fields": {
+          "slug": "cbc-system",
+          "title": "CBC System",
+          "sub_title": "GUIDELINES ON SEMESTER SYSTEM",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 19,
+        "fields": {
+          "slug": "time-table",
+          "title": "Time Table",
+          "sub_title": "",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 20,
+        "fields": {
+          "slug": "result",
+          "title": "Result",
+          "sub_title": "",
+          "content": ""
+        }
+      }
+    ]
+  }

@@ -1,0 +1,48 @@
+{
+    "slug": "761c36d6-c9ac-40f1-a821-360f256e8ce6",
+    "title": "Academics",
+    "link": "",
+    "id": 4,
+    "page": [
+      {
+        "model": "core.corepage",
+        "pk": 14,
+        "fields": {
+          "slug": "academic-calendar",
+          "title": "Academic Calendar",
+          "sub_title": "Year Wise Academic Calendar",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 15,
+        "fields": {
+          "slug": "ug-program",
+          "title": "UG Program",
+          "sub_title": "",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 16,
+        "fields": {
+          "slug": "pg-program",
+          "title": "PG Program",
+          "sub_title": "",
+          "content": ""
+        }
+      },
+      {
+        "model": "core.corepage",
+        "pk": 17,
+        "fields": {
+          "slug": "skills-and-other-course",
+          "title": "Skills And Other Course",
+          "sub_title": "",
+          "content": ""
+        }
+      }
+    ]
+  }

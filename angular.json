@@ -24,14 +24,14 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": [
               "node_modules/jquery/dist/jquery.min.js",
-              "src/assets/js/bootstrap.min.js",
-              "src/assets/js/jquery.min.js",
-              "src/assets/js/main.js",
-              "src/assets/js/popper.js"
+              "./src/assets/js/bootstrap.min.js",
+              "./src/assets/js/main.js",
+              "./src/assets/js/popper.js"
             ]
           },
           "configurations": {
@@ -67,7 +67,8 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "learnapp:build"
+            "browserTarget": "learnapp:build",
+            "proxyConfig": "src/proxy.conf.json"
           },
           "configurations": {
             "production": {
@@ -93,14 +94,14 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": [
               "node_modules/jquery/dist/jquery.min.js",
-              "src/assets/js/bootstrap.min.js",
-              "src/assets/js/jquery.min.js",
-              "src/assets/js/main.js",
-              "src/assets/js/popper.js"
+              "./src/assets/js/bootstrap.min.js",
+              "./src/assets/js/main.js",
+              "./src/assets/js/popper.js"
             ]
           }
         },

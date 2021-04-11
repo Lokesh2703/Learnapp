@@ -1,0 +1,582 @@
+[
+    {
+      "slug": "2729bcff-8e6d-4c41-9ee4-35039d769c55",
+      "title": "About Us",
+      "link": "about us",
+      "id": 3,
+      "page": [
+        {
+          "model": "core.corepage",
+          "pk": 2,
+          "fields": {
+            "slug": "history",
+            "title": "History",
+            "sub_title": "",
+            "content": "This College was established by the Department of Higher Education, the Government of Madhya Pradesh in 1989.\r\n\r\nLocation - Rural, Tribal, Backward and hilly area.\r\n\r\nTribes - Kanwar, Khairwar, Gond, Oranw, Manwar.\r\n\r\nAffiliation - Affilated to Bilaspur University, Bilaspur, a newly established University of Chhattisgarh State.\r\n\r\nUGC Recognition - The university grants commission(UGC) accorded it recognition under 2 F & 12 B in May 1998."
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 4,
+          "fields": {
+            "slug": "vision-and-mission",
+            "title": "Vision And Mission",
+            "sub_title": "Vision And Mission",
+            "content": "Vision \r\n\r\nThe Vision of the College is to improve the Quality of higher education in arts and commerce, serve the social needs] uplift the academic standards of the regional youths and foster an enduring sense of discipline and single minded dedication to work.\r\n\r\nMission\r\n\r\nThe mission is to provide Quality and value based education in the field of arts and commerce to the interested, first generation students and backward classes of the society. The mission is to promote the college into an institution of the quality education, to serve the regional youth by providing them easy access to higher education and job opportunities. The college has striven towards integrated personality, growth of rural students in particular and students at large in which special attention is given to their intellectual , moral and cultural development. It has to inculcate discipline, higher level of culture and time values in life among the youth."
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 5,
+          "fields": {
+            "slug": "principals-desk",
+            "title": "Principal’s Desk",
+            "sub_title": "Message From The Principal’s Desk",
+            "content": "प्राचार्य की कलम से \r\n\r\n          शासकीय महाविद्यालय भैसमा, वनाँचल क्षेत्र, कोरबा जिला अनुसूचित जनजाति बहुल क्षेत्र में स्थित है। यह महाविद्यालय उरगा (कोरबा) से धरमजयगढ़ राष्ट्रीय राजमार्ग पर उरगा से 4 कि.मी. की दूरी पर स्थित है। महाविद्यालय भवन 18 एकड़ में विस्तारित है।यह हमारे लिए अत्यंत गौरवान्वित होने वाला विषय है कि आदिवासी, ग्रामीण क्षेत्र में स्थित होने के बावजूद छात्राओं की संख्या प्रतिवर्ष प्रत्येक संकाय में बढ़ती ही जा रही है। वर्तमान में 65 प्रतिशत से अधिक छात्राओं की संख्या है, जो कि शिक्षा के क्षेत्र में महिला शिक्षा के बढ़ते रूझाान का परिचायक है।\r\n\tआज पूरा विश्व शिक्षा के क्षेत्र में गुणवत्ता सुधार के प्रयास में लगा हुआ है। इस दिशा में महाविद्यालय परिवार शिक्षा के साथ रोजगारोन्मुखी शिक्षा को बढ़ावा देने में प्रयासरत है।\r\n\tभविष्य में भी यह महाविद्यालय शिक्षा के साथ-साथ सभी क्षेत्रों में विकास को ओर अग्रसर होगा, ऐसी मेरी शुभकामनाएँ है। \r\n\t\t\r\n                                                                                     \r\n          डाॅ. जे.एल. चौहान\r\n               प्र. प्राचार्य"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "761c36d6-c9ac-40f1-a821-360f256e8ce6",
+      "title": "Academics",
+      "link": "",
+      "id": 4,
+      "page": [
+        {
+          "model": "core.corepage",
+          "pk": 14,
+          "fields": {
+            "slug": "academic-calendar",
+            "title": "Academic Calendar",
+            "sub_title": "Year Wise Academic Calendar",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 15,
+          "fields": {
+            "slug": "ug-program",
+            "title": "UG Program",
+            "sub_title": "",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 16,
+          "fields": {
+            "slug": "pg-program",
+            "title": "PG Program",
+            "sub_title": "",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 17,
+          "fields": {
+            "slug": "skills-and-other-course",
+            "title": "Skills And Other Course",
+            "sub_title": "",
+            "content": ""
+          }
+        }
+      ]
+    },
+    {
+      "slug": "4f754ec9-18f7-4d06-8c66-3437b62af403",
+      "title": "Faculty",
+      "link": "",
+      "id": 5,
+      "page": [
+        {
+          "model": "core.corepage",
+          "pk": 3,
+          "fields": {
+            "slug": "faculty",
+            "title": "Faculty",
+            "sub_title": "",
+            "content": ""
+          }
+        }
+      ]
+    },
+    {
+      "slug": "1684168f-c746-4d35-a1df-3a3bfcf18094",
+      "title": "Recognition",
+      "link": "",
+      "id": 6,
+      "page": [
+        {
+          "model": "core.corepage",
+          "pk": 6,
+          "fields": {
+            "slug": "department-of-higher-education",
+            "title": "Department of Higher Education",
+            "sub_title": "Department of Higher Education",
+            "content": "Department of Higher Education"
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 7,
+          "fields": {
+            "slug": "university-grants-commission-ugc",
+            "title": "University Grants Commission (UGC)",
+            "sub_title": "University Grants Commission (UGC)",
+            "content": "University Grants Commission (UGC)"
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 8,
+          "fields": {
+            "slug": "rashtriya-ucchhattar-shiksha-abhiyan",
+            "title": "Rashtriya Ucchhattar Shiksha Abhiyan",
+            "sub_title": "Rashtriya Ucchhattar Shiksha Abhiyan",
+            "content": "Rashtriya Ucchhattar Shiksha Abhiyan"
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 9,
+          "fields": {
+            "slug": "atal-bihari-vajpayee-vishwavidyalay",
+            "title": "Atal Bihari Vajpayee Vishwavidyalay",
+            "sub_title": "Atal Bihari Vajpayee Vishwavidyalay",
+            "content": "Atal Bihari Vajpayee Vishwavidyalay"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "da852b02-6c97-42c9-88d9-c95dd3e679ae",
+      "title": "Administration",
+      "link": "",
+      "id": 7,
+      "page": [
+        {
+          "model": "core.corepage",
+          "pk": 10,
+          "fields": {
+            "slug": "principal",
+            "title": "Principal",
+            "sub_title": "List Of Principals",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 11,
+          "fields": {
+            "slug": "janbhagidari",
+            "title": "Janbhagidari",
+            "sub_title": "",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 12,
+          "fields": {
+            "slug": "committee",
+            "title": "Committee",
+            "sub_title": "",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 13,
+          "fields": {
+            "slug": "office",
+            "title": "Office",
+            "sub_title": "",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 37,
+          "fields": {
+            "slug": "non-teaching-staff",
+            "title": "Non Teaching Staff",
+            "sub_title": "",
+            "content": ""
+          }
+        }
+      ]
+    },
+    {
+      "slug": "8762d431-d085-4806-aeed-a64f96d92fc7",
+      "title": "Examination",
+      "link": "",
+      "id": 8,
+      "page": [
+        {
+          "model": "core.corepage",
+          "pk": 18,
+          "fields": {
+            "slug": "cbc-system",
+            "title": "CBC System",
+            "sub_title": "GUIDELINES ON SEMESTER SYSTEM",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 19,
+          "fields": {
+            "slug": "time-table",
+            "title": "Time Table",
+            "sub_title": "",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 20,
+          "fields": {
+            "slug": "result",
+            "title": "Result",
+            "sub_title": "",
+            "content": ""
+          }
+        }
+      ]
+    },
+    {
+      "slug": "2add9cae-eab3-40f0-b071-8f02651af51c",
+      "title": "Activities",
+      "link": "",
+      "id": 9,
+      "page": [
+        {
+          "model": "core.corepage",
+          "pk": 21,
+          "fields": {
+            "slug": "nss",
+            "title": "NSS",
+            "sub_title": "National Service Scheme (NSS)",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 22,
+          "fields": {
+            "slug": "sports",
+            "title": "Sports",
+            "sub_title": "Sports and Games",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 23,
+          "fields": {
+            "slug": "youth-red-cross-society",
+            "title": "Youth Red Cross Society",
+            "sub_title": "",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 24,
+          "fields": {
+            "slug": "field-work",
+            "title": "Field Work",
+            "sub_title": "",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 25,
+          "fields": {
+            "slug": "cultural-activities",
+            "title": "Cultural Activities",
+            "sub_title": "Cultural/Literary Activities",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 52,
+          "fields": {
+            "slug": "facility-for-e-content",
+            "title": "Facility For e-content",
+            "sub_title": "2016-17",
+            "content": "Facility For e-content not available."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "e09e4ddc-0934-4663-ba7d-650267a689dd",
+      "title": "Students Corner",
+      "link": "",
+      "id": 10,
+      "page": [
+        {
+          "model": "core.corepage",
+          "pk": 26,
+          "fields": {
+            "slug": "admission",
+            "title": "Admission",
+            "sub_title": "Admission Process",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 27,
+          "fields": {
+            "slug": "library",
+            "title": "Library",
+            "sub_title": "About Library",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 28,
+          "fields": {
+            "slug": "career-counselling-and-placement-cell",
+            "title": "Career Counselling and Placement Cell",
+            "sub_title": "",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 29,
+          "fields": {
+            "slug": "student-union",
+            "title": "Student Union",
+            "sub_title": "",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 30,
+          "fields": {
+            "slug": "hostel",
+            "title": "Hostel",
+            "sub_title": "",
+            "content": "Hostel Facilities not available."
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 31,
+          "fields": {
+            "slug": "canteen",
+            "title": "Canteen",
+            "sub_title": "",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 32,
+          "fields": {
+            "slug": "scholarship",
+            "title": "Scholarship",
+            "sub_title": "",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 33,
+          "fields": {
+            "slug": "grievance-cell",
+            "title": "Grievance Cell",
+            "sub_title": "",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 34,
+          "fields": {
+            "slug": "anti-ragging",
+            "title": "Anti-Ragging",
+            "sub_title": "Disciplines and Anti-Ragging Committee",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 51,
+          "fields": {
+            "slug": "download",
+            "title": "download",
+            "sub_title": "Download",
+            "content": ""
+          }
+        }
+      ]
+    },
+    {
+      "slug": "ed655f31-3706-429c-98ee-bbfcea184257",
+      "title": "Gallery",
+      "link": "",
+      "id": 11,
+      "page": [
+        {
+          "model": "core.corepage",
+          "pk": 36,
+          "fields": {
+            "slug": "2016-17",
+            "title": "2016-17",
+            "sub_title": "",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 45,
+          "fields": {
+            "slug": "2017-18",
+            "title": "2017-18",
+            "sub_title": "",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 46,
+          "fields": {
+            "slug": "2018-19",
+            "title": "2018-19",
+            "sub_title": "",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 47,
+          "fields": {
+            "slug": "2019-20",
+            "title": "2019-20",
+            "sub_title": "",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 48,
+          "fields": {
+            "slug": "2020-21",
+            "title": "2020-21",
+            "sub_title": "",
+            "content": ""
+          }
+        }
+      ]
+    },
+    {
+      "slug": "7bd8be38-c6c3-4085-a1fc-f0b4eaff8789",
+      "title": "NAAC",
+      "link": "",
+      "id": 12,
+      "page": [
+        {
+          "model": "core.corepage",
+          "pk": 38,
+          "fields": {
+            "slug": "iqac",
+            "title": "IQAC",
+            "sub_title": "IQAC Reports",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 39,
+          "fields": {
+            "slug": "aqar",
+            "title": "AQAR",
+            "sub_title": "AQAR Reports",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 40,
+          "fields": {
+            "slug": "best-practice",
+            "title": "Best Practice",
+            "sub_title": "",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 41,
+          "fields": {
+            "slug": "ssr",
+            "title": "SSR",
+            "sub_title": "",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 42,
+          "fields": {
+            "slug": "feedback",
+            "title": "Feedback",
+            "sub_title": "",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 43,
+          "fields": {
+            "slug": "naac-certificate",
+            "title": "NAAC Certificate",
+            "sub_title": "NAAC Certificate (2016)",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 44,
+          "fields": {
+            "slug": "student-satisfactory-survey",
+            "title": "Student Satisfactory Survey",
+            "sub_title": "",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 49,
+          "fields": {
+            "slug": "learning-outcomes",
+            "title": "Learning Outcomes",
+            "sub_title": "2016-17",
+            "content": ""
+          }
+        },
+        {
+          "model": "core.corepage",
+          "pk": 50,
+          "fields": {
+            "slug": "student-performance-2016-17",
+            "title": "Student Performance 2016-17",
+            "sub_title": "2016-17",
+            "content": ""
+          }
+        }
+      ]
+    }
+  ]
